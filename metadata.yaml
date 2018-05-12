@@ -1,0 +1,30 @@
+_repo: Mademoiselle-de-C-rignan_20623
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sand, Maurice
+    aliases:
+    - Dudevant, Jean-François-Maurice-Arnauld
+    - Dudevant, Jean-Francois-Maurice-Arnauld
+    birthdate: 1823
+    deathdate: 1889
+    gutenberg_agent_id: '9425'
+    url: http://www.gutenberg.org/2009/agents/9425
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20623'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Mademoiselle de Cérignan
+url: http://www.gutenberg.org/ebooks/20623
