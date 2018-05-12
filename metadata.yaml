@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9425'
     url: http://www.gutenberg.org/2009/agents/9425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20623#Mademoiselle-de-C-rignan
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-02-20'
 gutenberg_type: Text
